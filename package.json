@@ -1,0 +1,13 @@
+{
+  "name": "graphql-introspection-to-sdl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": "git@github.com:adam-h/graphql-introspection-to-sdl.git",
+  "author": "Adam Heath <npm@adamheath.me>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^14.5.8",
+    "yargs": "^14.0.0"
+  }
+}
